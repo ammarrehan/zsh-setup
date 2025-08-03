@@ -53,7 +53,7 @@ To update your ZSH config on future machines:
 ```bash
 cd ~/zsh-setup
 git fetch
-git pull
+git push
 ```
 
 ## 
